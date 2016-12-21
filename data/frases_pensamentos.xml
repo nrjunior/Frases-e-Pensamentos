@@ -1,1299 +1,523 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
 	<thinker>
-		<name>
-			Abraham Lincoln
-		</name>
-		<biography>
-			Foi 16º presidente americano, famoso pela sua liderança durante a Guerra Civil Americana.
-		</biography>
-		<image>
-			http://conteudo.farolsign.com.br/frases_pensamentos/images/abraham_lincoln.jpg
-		</image>
+		<name>Abraham Lincoln</name>
+		<biography>Foi 16º presidente americano, famoso pela sua liderança durante a Guerra Civil Americana.</biography>
+		<image>abraham_lincoln.jpg</image>
 		<phrases>
-			<phrase>
-				Não se pode construir o caráter e coragem retirando-se do homem sua independência.
-			</phrase>
-			<phrase>
-				Só tem o direito de criticar aquele que pretende ajudar.
-			</phrase>
-			<phrase>
-				A melhor parte da vida de uma pessoa está nas suas amizades.
-			</phrase>
-			<phrase>
-				A cédula eleitoral é mais forte que a bala.
-			</phrase>
-			<phrase>
-				A perda de um inimigo não compensa a de um amigo.
-			</phrase>
-			<phrase>
-				Se a escravidão não é errada, nada é errado.
-			</phrase>
-			<phrase>
-				Nunca devemos mudar de cavalo no meio do rio.
-			</phrase>
-			<phrase>
-				As pessoas são tão felizes quanto decidem ser.
-			</phrase>
-			<phrase>
-				Eu caminho devagar, mas nunca caminho para trás.
-			</phrase>
-			<phrase>
-				Nenhum homem é bom suficiente para governar outro sem o seu consentimento.
-			</phrase>
-			<phrase>
-				Quase todos os homens são capazes de suportar adversidades, mas se quiser pôr à prova o caráter de um homem, dê-lhe poder.
-			</phrase>
+			<phrase>Não se pode construir o caráter e coragem retirando-se do homem sua independência.</phrase>
+			<phrase>Só tem o direito de criticar aquele que pretende ajudar.</phrase>
+			<phrase>A melhor parte da vida de uma pessoa está nas suas amizades.</phrase>
+			<phrase>A cédula eleitoral é mais forte que a bala.</phrase>
+			<phrase>A perda de um inimigo não compensa a de um amigo.</phrase>
+			<phrase>Se a escravidão não é errada, nada é errado.</phrase>
+			<phrase>Nunca devemos mudar de cavalo no meio do rio.</phrase>
+			<phrase>As pessoas são tão felizes quanto decidem ser.</phrase>
+			<phrase>Eu caminho devagar, mas nunca caminho para trás.</phrase>
+			<phrase>Nenhum homem é bom suficiente para governar outro sem o seu consentimento.</phrase>
+			<phrase>Quase todos os homens são capazes de suportar adversidades, mas se quiser pôr à prova o caráter de um homem, dê-lhe poder.</phrase>
 		</phrases>
 	</thinker>
 	<thinker>
-		<name>
-			Albert Einstein
-		</name>
-		<biography>
-			Considerado o físico mais notável de todos os tempos, famoso pela teoria da relatividade.
-		</biography>
-		<image>
-			http://conteudo.farolsign.com.br/frases_pensamentos/images/albert_einstein.jpg
-		</image>
+		<name>Albert Einstein</name>
+		<biography>Considerado o físico mais notável de todos os tempos, famoso pela teoria da relatividade.</biography>
+		<image>albert_einstein.jpg</image>
 		<phrases>
-			<phrase>
-				Eu não tenho nenhum talento especial. Sou apenas apaixonadamente curioso.
-			</phrase>
-			<phrase>
-				A paz não pode ser mantida pela força. Isso só pode ser conseguido pela compreensão.
-			</phrase>
-			<phrase>
-				É mais difícil quebrar um preconceito do que um átomo.
-			</phrase>
-			<phrase>
-				Um homem feliz é muito satisfeito com o presente para lidar muito com o futuro.
-			</phrase>
-			<phrase>
-				A vida é como andar de bicicleta. Para manter seu equilíbrio você deve continuar em movimento.
-			</phrase>
-			<phrase>
-				Um homem feliz é muito satisfeito com o presente para lidar muito com o futuro.
-			</phrase>
-			<phrase>
-				A ciência sem a religião é coxa, a religião sem a ciência é cega.
-			</phrase>
-			<phrase>
-				Algo só é impossível até que alguém duvide e acabe provando o contrário.
-			</phrase>
-			<phrase>
-				O primeiro dever da inteligência é desconfiar dela mesma.
-			</phrase>
-			<phrase>
-				A ciência pode determinar o que é, não o que deveria ser.
-			</phrase>
-			<phrase>
-				Uma pessoa inteligente resolve um problema, um sábio o previne.
-			</phrase>
+			<phrase>Eu não tenho nenhum talento especial. Sou apenas apaixonadamente curioso.</phrase>
+			<phrase>A paz não pode ser mantida pela força. Isso só pode ser conseguido pela compreensão.</phrase>
+			<phrase>É mais difícil quebrar um preconceito do que um átomo.</phrase>
+			<phrase>Um homem feliz é muito satisfeito com o presente para lidar muito com o futuro.</phrase>
+			<phrase>A vida é como andar de bicicleta. Para manter seu equilíbrio você deve continuar em movimento.</phrase>
+			<phrase>Um homem feliz é muito satisfeito com o presente para lidar muito com o futuro.</phrase>
+			<phrase>A ciência sem a religião é coxa, a religião sem a ciência é cega.</phrase>
+			<phrase>Algo só é impossível até que alguém duvide e acabe provando o contrário.</phrase>
+			<phrase>O primeiro dever da inteligência é desconfiar dela mesma.</phrase>
+			<phrase>A ciência pode determinar o que é, não o que deveria ser.</phrase>
+			<phrase>Uma pessoa inteligente resolve um problema, um sábio o previne.</phrase>
 		</phrases>
 	</thinker>
 	<thinker>
-		<name>
-			Allan Kardec
-		</name>
-		<biography>
-			Influente educador e autor francês. Conhecido por ter sido um codificador do Espiritismo.
-		</biography>
-		<image>
-			http://conteudo.farolsign.com.br/frases_pensamentos/images/allan_kardec.jpg
-		</image>
+		<name>Allan Kardec</name>
+		<biography>Influente educador e autor francês. Conhecido por ter sido um codificador do Espiritismo.</biography>
+		<image>allan_kardec.jpg</image>
 		<phrases>
-			<phrase>
-				A ciência e a religião são as duas alavancas da inteligência humana.
-			</phrase>
-			<phrase>
-				Fé inabalável é somente aquela que pode encarar a razão face a face, em todas as épocas da humanidade.
-			</phrase>
-			<phrase>
-				Se a religião recusa caminhar com a ciência, a ciência avança sozinha.
-			</phrase>
-			<phrase>
-				O Espiritismo é ao mesmo tempo uma ciência de observação e uma doutrina filosófica.
-			</phrase>
-			<phrase>
-				A Doutrina Espírita transforma completamente a perspectiva do futuro.
-			</phrase>
+			<phrase>A ciência e a religião são as duas alavancas da inteligência humana.</phrase>
+			<phrase>Fé inabalável é somente aquela que pode encarar a razão face a face, em todas as épocas da humanidade.</phrase>
+			<phrase>Se a religião recusa caminhar com a ciência, a ciência avança sozinha.</phrase>
+			<phrase>O Espiritismo é ao mesmo tempo uma ciência de observação e uma doutrina filosófica.</phrase>
+			<phrase>A Doutrina Espírita transforma completamente a perspectiva do futuro.</phrase>
 		</phrases>
 	</thinker>
 	<thinker>
-		<name>
-			Aristóteles
-		</name>
-		<biography>
-			Filósofo grego, aluno de Platão. É visto como um dos fundadores da filosofia ocidental.
-		</biography>
-		<image>
-			http://conteudo.farolsign.com.br/frases_pensamentos/images/aristoteles.jpg
-		</image>
+		<name>Aristóteles</name>
+		<biography>Filósofo grego, aluno de Platão. É visto como um dos fundadores da filosofia ocidental.</biography>
+		<image>aristoteles.jpg</image>
 		<phrases>
-			<phrase>
-				Homero ensinou todos os outros poetas a arte de dizer mentiras habilmente.
-			</phrase>
-			<phrase>
-				A Poesia exige um homem com um dom especial para isso, ou então um com um toque de loucura.
-			</phrase>
-			<phrase>
-				Sagacidade é insolência bem-educada.
-			</phrase>
-			<phrase>
-				A base de um estado democrático é a liberdade.
-			</phrase>
-			<phrase>
-				A lei é a razão não afetada pelo desejo.
-			</phrase>
-			<phrase>
-				O bom cidadão não precisa necessariamente possuir a virtude que faz um homem bom.
-			</phrase>
-			<phrase>
-				É da natureza do desejo não ser satisfeito, e a maioria dos homens vivem apenas para a satisfação do mesmo.
-			</phrase>		
+			<phrase>Homero ensinou todos os outros poetas a arte de dizer mentiras habilmente.</phrase>
+			<phrase>A Poesia exige um homem com um dom especial para isso, ou então um com um toque de loucura.</phrase>
+			<phrase>Sagacidade é insolência bem-educada.</phrase>
+			<phrase>A base de um estado democrático é a liberdade.</phrase>
+			<phrase>A lei é a razão não afetada pelo desejo.</phrase>
+			<phrase>O bom cidadão não precisa necessariamente possuir a virtude que faz um homem bom.</phrase>
+			<phrase>É da natureza do desejo não ser satisfeito, e a maioria dos homens vivem apenas para a satisfação do mesmo.</phrase>
 		</phrases>
 	</thinker>
 	<thinker>
-		<name>
-			Ayrton Senna
-		</name>
-		<biography>
-			Eterno ídolo brasileiro do esporte. Foi três vezes campeão mundial de Formula 1.
-		</biography>
-		<image>
-			http://conteudo.farolsign.com.br/frases_pensamentos/images/ayrton_senna.jpg
-		</image>
+		<name>Ayrton Senna</name>
+		<biography>Eterno ídolo brasileiro do esporte. Foi três vezes campeão mundial de Formula 1.</biography>
+		<image>ayrton_senna.jpg</image>
 		<phrases>
-			<phrase>
-				Somos insignificantes. Por mais que você programe sua vida, a qualquer momento tudo pode mudar.
-			</phrase>
-			<phrase>
-				O que sinto num carro a 300 km/h? Emoção, prazer e desafio.
-			</phrase>
-			<phrase>
-				Deus é forte, Ele é grande, e quando Ele quer não tem quem não queira.
-			</phrase>
-			<phrase>
-				Eu não tenho ídolos. Tenho admiração por trabalho, dedicação e competência.
-			</phrase>
-			<phrase>
-				Correr, competir, eu levo isso no meu sangue. É parte de mim. É parte da minha vida.
-			</phrase>
-			<phrase>
-				Com o poder da sua mente, sua determinação, seu instinto, e a experiência também, você pode voar muito alto.
-			</phrase>
-			<phrase>
-				O dia que chegar, chegou. Pode ser hoje ou daqui a 50 anos. A única coisa certa é que ela vai chegar.
-			</phrase>
-			<phrase>
-				Dinheiro é um negócio curioso. Quem não tem está loco para ter; quem tem está cheio de problemas por causa dele.
-			</phrase>
-			<phrase>
-				Meu maior erro? Acho que ainda está para acontecer.
-			</phrase>
-			<phrase>
-				O medo me fascina.
-			</phrase>
+			<phrase>Somos insignificantes. Por mais que você programe sua vida, a qualquer momento tudo pode mudar.</phrase>
+			<phrase>O que sinto num carro a 300 km/h? Emoção, prazer e desafio.</phrase>
+			<phrase>Deus é forte, Ele é grande, e quando Ele quer não tem quem não queira.</phrase>
+			<phrase>Eu não tenho ídolos. Tenho admiração por trabalho, dedicação e competência.</phrase>
+			<phrase>Correr, competir, eu levo isso no meu sangue. É parte de mim. É parte da minha vida.</phrase>
+			<phrase>Com o poder da sua mente, sua determinação, seu instinto, e a experiência também, você pode voar muito alto.</phrase>
+			<phrase>O dia que chegar, chegou. Pode ser hoje ou daqui a 50 anos. A única coisa certa é que ela vai chegar.</phrase>
+			<phrase>Dinheiro é um negócio curioso. Quem não tem está loco para ter; quem tem está cheio de problemas por causa dele.</phrase>
+			<phrase>Meu maior erro? Acho que ainda está para acontecer.</phrase>
+			<phrase>O medo me fascina.</phrase>
 		</phrases>
 	</thinker>
 	<thinker>
-		<name>
-			Benjamin Franklin
-		</name>
-		<biography>
-			Foi um jornalista, editor, autor, filantropo, abolicionista, cientista, diplomata e inventor.
-		</biography>
-		<image>
-			http://conteudo.farolsign.com.br/frases_pensamentos/images/benjamin_franklin.jpg
-		</image>
+		<name>Benjamin Franklin</name>
+		<biography>Foi um jornalista, editor, autor, filantropo, abolicionista, cientista, diplomata e inventor.</biography>
+		<image>benjamin_franklin.jpg</image>
 		<phrases>
-			<phrase>
-				Mantenha seus olhos bem abertos antes do casamento; e semi-abertos logo depois.
-			</phrase>
-			<phrase>
-				É mais fácil resistir ao primeiro dos nossos desejos do que a todos os que o seguem.
-			</phrase>
-			<phrase>
-				Nunca houve uma guerra boa nem uma paz ruim.
-			</phrase>
-			<phrase>
-				Quem não quer ser aconselhado, não pode ser ajudado.
-			</phrase>
-			<phrase>
-				Quem ensina a si mesmo, tem um tolo como professor.
-			</phrase>
-			<phrase>
-				Falhar para se preparar é se preparar para falhar.
-			</phrase>
-			<phrase>
-				O orgulho que se alimenta da vaidade termina em desprezo.
-			</phrase>
-			<phrase>
-				O falso amigo e a sombra só se fazem presentes enquanto o sol brilha.
-			</phrase>
+			<phrase>Mantenha seus olhos bem abertos antes do casamento; e semi-abertos logo depois.</phrase>
+			<phrase>É mais fácil resistir ao primeiro dos nossos desejos do que a todos os que o seguem.</phrase>
+			<phrase>Nunca houve uma guerra boa nem uma paz ruim.</phrase>
+			<phrase>Quem não quer ser aconselhado, não pode ser ajudado.</phrase>
+			<phrase>Quem ensina a si mesmo, tem um tolo como professor.</phrase>
+			<phrase>Falhar para se preparar é se preparar para falhar.</phrase>
+			<phrase>O orgulho que se alimenta da vaidade termina em desprezo.</phrase>
+			<phrase>O falso amigo e a sombra só se fazem presentes enquanto o sol brilha.</phrase>
 		</phrases>
 	</thinker>
 	<thinker>
-		<name>
-			Bob Dylan
-		</name>
-		<biography>
-			Músico, cantor, compositor e escritor. Influente na música e na cultura popular por cinco décadas.
-		</biography>
-		<image>
-			http://conteudo.farolsign.com.br/frases_pensamentos/images/bob_dylan.jpg
-		</image>
+		<name>Bob Dylan</name>
+		<biography>Músico, cantor, compositor e escritor. Influente na música e na cultura popular por cinco décadas.</biography>
+		<image>bob_dylan.jpg</image>
 		<phrases>
-			<phrase>
-				Se você precisa de alguém para confiar, confie em você mesmo.
-			</phrase>
-			<phrase>
-				Você não pode ser sábio e apaixonado ao mesmo tempo.
-			</phrase>
-			<phrase>
-				A felicidade não está na estrada que leva a algum lugar. A felicidade é a própria estrada.
-			</phrase>
-			<phrase>
-				A melhor coisa que você pode fazer por uma pessoa é inspirá-la.
-			</phrase>
-			<phrase>
-				Não sou eu. São as músicas. Eu sou só o carteiro. Eu entrego as músicas
-			</phrase>
-			<phrase>
-				A única coisa que as pessoas tem em comum é que estão todas caminhando em direção a morte
-			</phrase>
-			<phrase>
-				Uns sentem a chuva, outros apenas se molham
-			</phrase>
-			<phrase>
-				As pessoas não fazem aquilo que acreditam. Elas fazem o que é conveniente, e então se arrependem
-			</phrase>
+			<phrase>Se você precisa de alguém para confiar, confie em você mesmo.</phrase>
+			<phrase>Você não pode ser sábio e apaixonado ao mesmo tempo.</phrase>
+			<phrase>A felicidade não está na estrada que leva a algum lugar. A felicidade é a própria estrada.</phrase>
+			<phrase>A melhor coisa que você pode fazer por uma pessoa é inspirá-la.</phrase>
+			<phrase>Não sou eu. São as músicas. Eu sou só o carteiro. Eu entrego as músicas</phrase>
+			<phrase>A única coisa que as pessoas tem em comum é que estão todas caminhando em direção a morte</phrase>
+			<phrase>Uns sentem a chuva, outros apenas se molham</phrase>
+			<phrase>As pessoas não fazem aquilo que acreditam. Elas fazem o que é conveniente, e então se arrependem</phrase>
 		</phrases>
 	</thinker>
 	<thinker>
-		<name>
-			Bob Marley
-		</name>
-		<biography>
-			Cantor e compositor jamaicano, o mais conhecido músico de reggae de todos os tempos.
-		</biography>
-		<image>
-			http://conteudo.farolsign.com.br/frases_pensamentos/images/bob_marley.jpg
-		</image>
+		<name>Bob Marley</name>
+		<biography>Cantor e compositor jamaicano, o mais conhecido músico de reggae de todos os tempos.</biography>
+		<image>bob_marley.jpg</image>
 		<phrases>
-			<phrase>
-				Enquanto a cor da pele dos homens valer mais do que o brilho dos olhos, sempre haverá guerra.
-			</phrase>
-			<phrase>
-				Não julgueis, antes de julgar a si mesmo. Não julgueis, se você não está pronto para ser julgado.
-			</phrase>
-			<phrase>
-				A Estrada da vida é rochosa e você pode tropeçar também, então, enquanto você fala de mim, alguém já está te julgando.
-			</phrase>
-			<phrase>
-				Um amor, um só coração, Vamos ficar juntos e se sentir bem.
-			</phrase>
-			<phrase>
-				Uma multidão com fome é uma multidão enfurecida.
-			</phrase>
-			<phrase>
-				Sua vida vale muito mais do que ouro.
-			</phrase>
-			<phrase>
-				Nós não temos educação, temos inspiração, se eu tivesse sido educado eu seria um idiota.
-			</phrase>
-			<phrase>
-				Eles dizem que o sol brilha para todos, mas para algumas pessoas no mundo ele nunca brilha.
-			</phrase>
-			<phrase>
-				Se você obedece todas as regras, acaba perdendo a diversão.
-			</phrase>
-			<phrase>
-				Não preciso ter ambições. Só tem uma coisa que eu quero muito: que a humanidade viva unida... negros e brancos todos juntos.
-			</phrase>
-			<phrase>
-				Não tocamos para agradar os críticos. Tocamos o que queremos, quando queremos e o quanto quisermos. E temos motivos para tocar.
-			</phrase>
+			<phrase>Enquanto a cor da pele dos homens valer mais do que o brilho dos olhos, sempre haverá guerra.</phrase>
+			<phrase>Não julgueis, antes de julgar a si mesmo. Não julgueis, se você não está pronto para ser julgado.</phrase>
+			<phrase>A Estrada da vida é rochosa e você pode tropeçar também, então, enquanto você fala de mim, alguém já está te julgando.</phrase>
+			<phrase>Um amor, um só coração, Vamos ficar juntos e se sentir bem.</phrase>
+			<phrase>Uma multidão com fome é uma multidão enfurecida.</phrase>
+			<phrase>Sua vida vale muito mais do que ouro.</phrase>
+			<phrase>Nós não temos educação, temos inspiração, se eu tivesse sido educado eu seria um idiota.</phrase>
+			<phrase>Eles dizem que o sol brilha para todos, mas para algumas pessoas no mundo ele nunca brilha.</phrase>
+			<phrase>Se você obedece todas as regras, acaba perdendo a diversão.</phrase>
+			<phrase>Não preciso ter ambições. Só tem uma coisa que eu quero muito: que a humanidade viva unida... negros e brancos todos juntos.</phrase>
+			<phrase>Não tocamos para agradar os críticos. Tocamos o que queremos, quando queremos e o quanto quisermos. E temos motivos para tocar.</phrase>
 		</phrases>
 	</thinker>
 	<thinker>
-		<name>
-			Bruce Lee
-		</name>
-		<biography>
-			Artista marcial, ator e produtor de cinema sino-americano. Ícone cultural e das artes marciais.
-		</biography>
-		<image>
-			http://conteudo.farolsign.com.br/frases_pensamentos/images/bruce_lee.jpg
-		</image>
+		<name>Bruce Lee</name>
+		<biography>Artista marcial, ator e produtor de cinema sino-americano. Ícone cultural e das artes marciais.</biography>
+		<image>bruce_lee.jpg</image>
 		<phrases>
-			<phrase>
-				A verdade não tem caminho. A verdade é viva e, portanto, muda.
-			</phrase>
-			<phrase>
-				Covarde não é aquele que evita um combate, covarde é aquele que mesmo sabendo que é superior luta e fere o mais fraco.
-			</phrase>
-			<phrase>
-				Seja como a água que passa por entre as fendas.
-			</phrase>
-			<phrase>
-				O que você sabe não tem valor; o valor está no que você faz com o que sabe.
-			</phrase>
-			<phrase>
-				Se você acreditar que uma coisa é impossível, você a tornará impossível.
-			</phrase>
-			<phrase>
-				Erros são sempre perdoáveis se você tiver a coragem de admiti-los.
-			</phrase>
-			<phrase>
-				Conhecimento dá poder, mas só o caráter grangeia respeito.
-			</phrase>
+			<phrase>A verdade não tem caminho. A verdade é viva e, portanto, muda.</phrase>
+			<phrase>Covarde não é aquele que evita um combate, covarde é aquele que mesmo sabendo que é superior luta e fere o mais fraco.</phrase>
+			<phrase>Seja como a água que passa por entre as fendas.</phrase>
+			<phrase>O que você sabe não tem valor; o valor está no que você faz com o que sabe.</phrase>
+			<phrase>Se você acreditar que uma coisa é impossível, você a tornará impossível.</phrase>
+			<phrase>Erros são sempre perdoáveis se você tiver a coragem de admiti-los.</phrase>
+			<phrase>Conhecimento dá poder, mas só o caráter grangeia respeito.</phrase>
 		</phrases>
 	</thinker>
 	<thinker>
-		<name>
-			Caetano Veloso
-		</name>
-		<biography>
-			Musico, produtor, arranjador e escritor brasileiro. Com mais de 40 anos de carreira.
-		</biography>
-		<image>
-			http://conteudo.farolsign.com.br/frases_pensamentos/images/caetano_veloso.jpg
-		</image>
+		<name>Caetano Veloso</name>
+		<biography>Musico, produtor, arranjador e escritor brasileiro. Com mais de 40 anos de carreira.</biography>
+		<image>caetano_veloso.jpg</image>
 		<phrases>
-			<phrase>
-				De perto, ninguém é normal.
-			</phrase>
-			<phrase>
-				Gente é pra brilhar, não pra morrer de fome.
-			</phrase>
-			<phrase>
-				Cada um sabe a dor e a delícia de ser o que é…
-			</phrase>
-			<phrase>
-				Meu coração vagabundo quer guardar o mundo em mim.
-			</phrase>
-			<phrase>
-				Qualquer maneira de amor vale a pena. Qualquer maneira de amor vale amar…
-			</phrase>
-			<phrase>
-				Meu coração não se cansa de ter esperança de um dia ser tudo o que quer
-			</phrase>
-			<phrase>
-				O tempo não para e no entanto ele nunca envelhece.
-			</phrase>
-			<phrase>
-				Fala que me ama mas é da boca pra fora...
-			</phrase>
-			<phrase>
-				É impressionante a força que as coisas parecem ter quando elas precisam acontecer.
-			</phrase>
-			<phrase>
-				E agora que faço eu da vida sem você , você não me ensinou a te esquecer .
-			</phrase>
+			<phrase>De perto, ninguém é normal.</phrase>
+			<phrase>Gente é pra brilhar, não pra morrer de fome.</phrase>
+			<phrase>Cada um sabe a dor e a delícia de ser o que é…</phrase>
+			<phrase>Meu coração vagabundo quer guardar o mundo em mim.</phrase>
+			<phrase>Qualquer maneira de amor vale a pena. Qualquer maneira de amor vale amar…</phrase>
+			<phrase>Meu coração não se cansa de ter esperança de um dia ser tudo o que quer</phrase>
+			<phrase>O tempo não para e no entanto ele nunca envelhece.</phrase>
+			<phrase>Fala que me ama mas é da boca pra fora...</phrase>
+			<phrase>É impressionante a força que as coisas parecem ter quando elas precisam acontecer.</phrase>
+			<phrase>E agora que faço eu da vida sem você , você não me ensinou a te esquecer .</phrase>
 		</phrases>
 	</thinker>
 	<thinker>
-		<name>
-			Caio Fernando Abreu
-		</name>
-		<biography>
-			Jornalista, dramaturgo e escritor, apontado como um dos expoentes de sua geração.
-		</biography>
-		<image>
-			http://conteudo.farolsign.com.br/frases_pensamentos/images/caio_fernando_abreu.jpg
-		</image>
+		<name>Caio Fernando Abreu</name>
+		<biography>Jornalista, dramaturgo e escritor, apontado como um dos expoentes de sua geração.</biography>
+		<image>caio_fernando_abreu.jpg</image>
 		<phrases>
-			<phrase>
-				A culpa é de todos e não é de ninguém, não sei quem foi que fez o mundo assim horrível.
-			</phrase>
-			<phrase>
-				Mania de esperar que as coisas sejam um jeito determinado, por isso a gente se decepciona e sofre.
-			</phrase>
-			<phrase>
-				Mas é preciso passar por uma porção de besteiras até chegar ao que interessa.
-			</phrase>
-			<phrase>
-				O meu dia só existe porque você existe dentro dele.
-			</phrase>
-			<phrase>
-				Não tem coisa melhor (nem pior) do que gente.
-			</phrase>
-			<phrase>
-				Muitas vezes você vai cair e hesitar no levantar-se, até uma próxima queda.
-			</phrase>
-			<phrase>
-				Desistir não é nobre. E arduamente, não desistimos.
-			</phrase>
-			<phrase>
-				Depois de todas as tempestades e naufrágios o que fica de mim e em mim é cada vez mais essencial e verdadeiro.
-			</phrase>
-			<phrase>
-				Mesmo sem compreender, quero continuar aqui onde está constantemente amanhecendo.
-			</phrase>
-			<phrase>
-				Repito sempre: sossega, sossega - o amor não é para o teu bico.
-			</phrase>
-		</phrases>
-	</thinker>
-		<thinker>
-		<name>
-			Carlos Drummond de Andrade
-		</name>
-		<biography>
-			Poeta e cronista brasileiro. Um dos mais influentes poetas brasileiros do século XX.
-		</biography>
-		<image>
-			http://conteudo.farolsign.com.br/frases_pensamentos/images/carlos_drummond_de_andrade.jpg
-		</image>
-		<phrases>
-			<phrase>
-				Prisioneira do corpo, a alma vive em guerra com o carcereiro.
-			</phrase>
-			<phrase>
-				O voto obrigatório estendido ao analfabeto anuncia o analfabetismo obrigatório.
-			</phrase>
-			<phrase>
-				O Brasil é um país novo que se imagina velho, e um país velho que se supõe novo.
-			</phrase>
-			<phrase>
-				É cada vez mais difícil vender a alma ao Diabo, por excesso de oferta.
-			</phrase>
-			<phrase>
-				Quem gosta de escrever cartas para jornais não deve ter namorada.
-			</phrase>
-			<phrase>
-				Uma eleição é feita para corrigir o erro da eleição anterior, mesmo que o agrave.
-			</phrase>
-			<phrase>
-				A glória é um alimento que se dá a quem já não pode saboreá-lo.
-			</phrase>
-			<phrase>
-				A felicidade tem um limite, a loucura.
-			</phrase>
-			<phrase>
-				Somos humanos, isto é, achamos que somos.
-			</phrase>
-			<phrase>
-				A solidão gera inúmeros companheiros em nós mesmos.
-			</phrase>
-			<phrase>
-				A vida é breve, a velhice é longa.
-			</phrase>
+			<phrase>A culpa é de todos e não é de ninguém, não sei quem foi que fez o mundo assim horrível.</phrase>
+			<phrase>Mania de esperar que as coisas sejam um jeito determinado, por isso a gente se decepciona e sofre.</phrase>
+			<phrase>Mas é preciso passar por uma porção de besteiras até chegar ao que interessa.</phrase>
+			<phrase>O meu dia só existe porque você existe dentro dele.</phrase>
+			<phrase>Não tem coisa melhor (nem pior) do que gente.</phrase>
+			<phrase>Muitas vezes você vai cair e hesitar no levantar-se, até uma próxima queda.</phrase>
+			<phrase>Desistir não é nobre. E arduamente, não desistimos.</phrase>
+			<phrase>Depois de todas as tempestades e naufrágios o que fica de mim e em mim é cada vez mais essencial e verdadeiro.</phrase>
+			<phrase>Mesmo sem compreender, quero continuar aqui onde está constantemente amanhecendo.</phrase>
+			<phrase>Repito sempre: sossega, sossega - o amor não é para o teu bico.</phrase>
 		</phrases>
 	</thinker>
 	<thinker>
-		<name>
-			Charlie Chaplin
-		</name>
-		<biography>
-			Ator, diretor, humorista e roteirista britânico. Conhecido por seus filmes de sucesso.
-		</biography>
-		<image>
-			http://conteudo.farolsign.com.br/frases_pensamentos/images/charlie_chaplin.jpg
-		</image>
+		<name>Carlos Drummond de Andrade</name>
+		<biography>Poeta e cronista brasileiro. Um dos mais influentes poetas brasileiros do século XX.</biography>
+		<image>carlos_drummond_de_andrade.jpg</image>
 		<phrases>
-			<phrase>
-				Pensamos em excesso e sentimos muito pouco.
-			</phrase>
-			<phrase>
-				A beleza existe em tudo – tanto no bem como no mal. Mas somente os artistas e os poetas sabem encontrá-la.
-			</phrase>
-			<phrase>
-				A vida é uma tragédia quando vista de perto, mas uma comédia quando vista de longe.
-			</phrase>
-			<phrase>
-				O amor perfeito é a mais bela das frustrações, pois está acima do que se pode exprimir.
-			</phrase>
-			<phrase>
-				Creio que o pecado é realmente um mistério tão grande como a virtude.
-			</phrase>
-			<phrase>
-				Minha fé é no desconhecido, em tudo que não podemos compreender por meio da razão.
-			</phrase>
-			<phrase>
-				Por simples bom senso, não acredito em Deus. Em nenhum.
-			</phrase>
-			<phrase>
-				A persistência é o caminho do êxito.
-			</phrase>
-			<phrase>
-				Creio no riso e nas lágrimas como antídotos contra o ódio e o terror.
-			</phrase>
-			<phrase>
-				Mais que de máquinas, precisamos de humanidade.
-			</phrase>
-			<phrase>
-				Há dentro de nós alguma coisa que nos induz a esquecer o ódio e os aspectos desagradáveis da vida.
-			</phrase>
+			<phrase>Prisioneira do corpo, a alma vive em guerra com o carcereiro.</phrase>
+			<phrase>O voto obrigatório estendido ao analfabeto anuncia o analfabetismo obrigatório.</phrase>
+			<phrase>O Brasil é um país novo que se imagina velho, e um país velho que se supõe novo.</phrase>
+			<phrase>É cada vez mais difícil vender a alma ao Diabo, por excesso de oferta.</phrase>
+			<phrase>Quem gosta de escrever cartas para jornais não deve ter namorada.</phrase>
+			<phrase>Uma eleição é feita para corrigir o erro da eleição anterior, mesmo que o agrave.</phrase>
+			<phrase>A glória é um alimento que se dá a quem já não pode saboreá-lo.</phrase>
+			<phrase>A felicidade tem um limite, a loucura.</phrase>
+			<phrase>Somos humanos, isto é, achamos que somos.</phrase>
+			<phrase>A solidão gera inúmeros companheiros em nós mesmos.</phrase>
+			<phrase>A vida é breve, a velhice é longa.</phrase>
 		</phrases>
 	</thinker>
 	<thinker>
-		<name>
-			Confúcio
-		</name>
-		<biography>
-			Filósofo chinês, abordava assuntos como moral, relações sociais, justiça e sinceridade.
-		</biography>
-		<image>
-			http://conteudo.farolsign.com.br/frases_pensamentos/images/confucio.jpg
-		</image>
+		<name>Charlie Chaplin</name>
+		<biography>Ator, diretor, humorista e roteirista britânico. Conhecido por seus filmes de sucesso.</biography>
+		<image>charlie_chaplin.jpg</image>
 		<phrases>
-			<phrase>
-				A preguiça anda tão devagar que a pobreza facilmente a alcança.
-			</phrase>
-			<phrase>
-				É melhor acender uma vela do que amaldiçoar a escuridão.
-			</phrase>
-			<phrase>
-				O que destrói a criatividade é o senso do ridículo.
-			</phrase>
-			<phrase>
-				O silêncio é um amigo que nunca trai.
-			</phrase>
-			<phrase>
-				Para onde quer que vá, vá de todo o coração.
-			</phrase>
-			<phrase>
-				Ainda não vi ninguém que ame a virtude tanto quanto ama a beleza do corpo.
-			</phrase>
-			<phrase>
-				Aja antes de falar e, portanto, fale de acordo com os seus atos.
-			</phrase>
-			<phrase>
-				Até que o sol não brilhe, acendamos uma vela na escuridão.
-			</phrase>
-			<phrase>
-				Se queres prever o futuro, estuda o passado.
-			</phrase>
-			<phrase>
-				O homem superior atribui a culpa a si próprio; o homem comum aos outros.
-			</phrase>
+			<phrase>Pensamos em excesso e sentimos muito pouco.</phrase>
+			<phrase>A beleza existe em tudo – tanto no bem como no mal. Mas somente os artistas e os poetas sabem encontrá-la.</phrase>
+			<phrase>A vida é uma tragédia quando vista de perto, mas uma comédia quando vista de longe.</phrase>
+			<phrase>O amor perfeito é a mais bela das frustrações, pois está acima do que se pode exprimir.</phrase>
+			<phrase>Creio que o pecado é realmente um mistério tão grande como a virtude.</phrase>
+			<phrase>Minha fé é no desconhecido, em tudo que não podemos compreender por meio da razão.</phrase>
+			<phrase>Por simples bom senso, não acredito em Deus. Em nenhum.</phrase>
+			<phrase>A persistência é o caminho do êxito.</phrase>
+			<phrase>Creio no riso e nas lágrimas como antídotos contra o ódio e o terror.</phrase>
+			<phrase>Mais que de máquinas, precisamos de humanidade.</phrase>
+			<phrase>Há dentro de nós alguma coisa que nos induz a esquecer o ódio e os aspectos desagradáveis da vida.</phrase>
 		</phrases>
 	</thinker>
 	<thinker>
-		<name>
-			Erico Verissimo
-		</name>
-		<biography>
-			Nascido em Porto Alegre, foi um dos escritores brasileiros mais populares do século XX.
-		</biography>
-		<image>
-			http://conteudo.farolsign.com.br/frases_pensamentos/images/erico_verissimo.jpg
-		</image>
+		<name>Confúcio</name>
+		<biography>Filósofo chinês, abordava assuntos como moral, relações sociais, justiça e sinceridade.</biography>
+		<image>confucio.jpg</image>
 		<phrases>
-			<phrase>
-				Saibamos fazer pausas para olhar os lírios do campo e as aves do Céu.
-			</phrase>
-			<phrase>
-				Na minha opinião existem dois tipos de viajantes: os que viajam para fugir e os que viajam para buscar.
-			</phrase>
-			<phrase>
-				A vida começa todos os dias.
-			</phrase>
-			<phrase>
-				A gente foge da solidão quando tem medo dos próprios pensamentos.
-			</phrase>
-			<phrase>
-				O oposto do amor não é o ódio, mas a indiferença.
-			</phrase>
-			<phrase>
-				Na minha opinião existem dois tipos de viajantes: os que viajam para fugir e os que viajam para buscar.
-			</phrase>
-			<phrase>
-				Olha as estrelas. Enquanto elas brilharem haverá esperança na vida.
-			</phrase>
-			<phrase>
-				Felicidade é a certeza de que a nossa vida não está se passando inutilmente.
-			</phrase>
-			<phrase>
-				Todos nós somos um mistério para os outros… e para nós mesmos.
-			</phrase>
-			<phrase>
-				Quem está com fome fica surdo até mesmo à voz de Deus.
-			</phrase>
-			<phrase>
-				Ninguém deve culpar-se pelo que sente, não somos responsáveis pelo que nosso corpo deseja, mas sim, pelo que fizemos com ele.
-			</phrase>
+			<phrase>A preguiça anda tão devagar que a pobreza facilmente a alcança.</phrase>
+			<phrase>É melhor acender uma vela do que amaldiçoar a escuridão.</phrase>
+			<phrase>O que destrói a criatividade é o senso do ridículo.</phrase>
+			<phrase>O silêncio é um amigo que nunca trai.</phrase>
+			<phrase>Para onde quer que vá, vá de todo o coração.</phrase>
+			<phrase>Ainda não vi ninguém que ame a virtude tanto quanto ama a beleza do corpo.</phrase>
+			<phrase>Aja antes de falar e, portanto, fale de acordo com os seus atos.</phrase>
+			<phrase>Até que o sol não brilhe, acendamos uma vela na escuridão.</phrase>
+			<phrase>Se queres prever o futuro, estuda o passado.</phrase>
+			<phrase>O homem superior atribui a culpa a si próprio; o homem comum aos outros.</phrase>
 		</phrases>
 	</thinker>
 	<thinker>
-		<name>
-			Fernando Pessoa
-		</name>
-		<biography>
-			Poeta, filósofo e escritor português. Considerado como o mais universal poeta português.
-		</biography>
-		<image>
-			http://conteudo.farolsign.com.br/frases_pensamentos/images/fernando_pessoa.jpg
-		</image>
+		<name>Erico Verissimo</name>
+		<biography>Nascido em Porto Alegre, foi um dos escritores brasileiros mais populares do século XX.</biography>
+		<image>erico_verissimo.jpg</image>
 		<phrases>
-			<phrase>
-				Haja ou não deuses, deles somos servos.
-			</phrase>
-			<phrase>
-				A renúncia é a libertação. Não querer é poder.
-			</phrase>
-			<phrase>
-				Tudo é absurdo.
-			</phrase>
-			<phrase>
-				Sou um homem para quem o mundo exterior é uma realidade interior.
-			</phrase>
-			<phrase>
-				Ser compreendido é prostituir-se.
-			</phrase>
-			<phrase>
-				Saber iludir-se bem é a primeira qualidade do estadista.
-			</phrase>
-			<phrase>
-				Para viajar basta existir.
-			</phrase>
-			<phrase>
-				Às vezes ouço passar o vento; e só de ouvir o vento passar, vale a pena ter nascido.
-			</phrase>	
-			<phrase>
-				Tenho em mim todos os sonhos do mundo.
-			</phrase>	
-			<phrase>
-				Tudo vale a pena quando a alma não é pequena.
-			</phrase>	
+			<phrase>Saibamos fazer pausas para olhar os lírios do campo e as aves do Céu.</phrase>
+			<phrase>Na minha opinião existem dois tipos de viajantes: os que viajam para fugir e os que viajam para buscar.</phrase>
+			<phrase>A vida começa todos os dias.</phrase>
+			<phrase>A gente foge da solidão quando tem medo dos próprios pensamentos.</phrase>
+			<phrase>O oposto do amor não é o ódio, mas a indiferença.</phrase>
+			<phrase>Na minha opinião existem dois tipos de viajantes: os que viajam para fugir e os que viajam para buscar.</phrase>
+			<phrase>Olha as estrelas. Enquanto elas brilharem haverá esperança na vida.</phrase>
+			<phrase>Felicidade é a certeza de que a nossa vida não está se passando inutilmente.</phrase>
+			<phrase>Todos nós somos um mistério para os outros… e para nós mesmos.</phrase>
+			<phrase>Quem está com fome fica surdo até mesmo à voz de Deus.</phrase>
+			<phrase>Ninguém deve culpar-se pelo que sente, não somos responsáveis pelo que nosso corpo deseja, mas sim, pelo que fizemos com ele.</phrase>
 		</phrases>
 	</thinker>
 	<thinker>
-		<name>
-			Francis Bacon
-		</name>
-		<biography>
-			Político, filósofo e ensaísta inglês. Considerado como o fundador da ciência moderna.
-		</biography>
-		<image>
-			http://conteudo.farolsign.com.br/frases_pensamentos/images/francis_bacon.jpg
-		</image>
+		<name>Fernando Pessoa</name>
+		<biography>Poeta, filósofo e escritor português. Considerado como o mais universal poeta português.</biography>
+		<image>fernando_pessoa.jpg</image>
 		<phrases>
-			<phrase>
-				Nunca há excesso na caridade.
-			</phrase>
-			<phrase>
-				O homem deve criar as oportunidades e não somente encontrá-las.
-			</phrase>
-			<phrase>
-				O silêncio é a virtude dos imbecis.
-			</phrase>
-			<phrase>
-				A melhor parte da beleza é aquela que nenhum retrato consegue expressar.
-			</phrase>
-			<phrase>
-				A prosperidade prontamente descobre o vício; mas a adversidade logo descobre a virtude.
-			</phrase>
-			<phrase>
-				A dúvida é a escola da verdade.
-			</phrase>
+			<phrase>Haja ou não deuses, deles somos servos.</phrase>
+			<phrase>A renúncia é a libertação. Não querer é poder.</phrase>
+			<phrase>Tudo é absurdo.</phrase>
+			<phrase>Sou um homem para quem o mundo exterior é uma realidade interior.</phrase>
+			<phrase>Ser compreendido é prostituir-se.</phrase>
+			<phrase>Saber iludir-se bem é a primeira qualidade do estadista.</phrase>
+			<phrase>Para viajar basta existir.</phrase>
+			<phrase>Às vezes ouço passar o vento; e só de ouvir o vento passar, vale a pena ter nascido.</phrase>
+			<phrase>Tenho em mim todos os sonhos do mundo.</phrase>
+			<phrase>Tudo vale a pena quando a alma não é pequena.</phrase>
 		</phrases>
 	</thinker>
 	<thinker>
-		<name>
-			Henry Ford
-		</name>
-		<biography>
-			Empresário americano, fundador da Ford, o primeiro a aplicar a linha de montagem em série.
-		</biography>
-		<image>
-			http://conteudo.farolsign.com.br/frases_pensamentos/images/henry_ford.jpg
-		</image>
+		<name>Francis Bacon</name>
+		<biography>Político, filósofo e ensaísta inglês. Considerado como o fundador da ciência moderna.</biography>
+		<image>francis_bacon.jpg</image>
 		<phrases>
-			<phrase>
-				Há mais pessoas que desistem do que pessoas que fracassam.
-			</phrase>
-			<phrase>
-				Se você pensa que pode, ou se pensa que não pode, de qualquer modo está certo.
-			</phrase>
-			<phrase>
-				O melhor uso do capital não é fazer dinheiro, mas sim fazer dinheiro para melhorar a vida.
-			</phrase>
-			<phrase>
-				Mediocridade é o pior inimigo da prosperidade.
-			</phrase>
-			<phrase>
-				Você não pode construir uma reputação com base no que ainda vai fazer.
-			</phrase>
-			<phrase>
-				Obstáculos são aqueles perigos que você vê quando tira os olhos de seu objetivo.
-			</phrase>
+			<phrase>Nunca há excesso na caridade.</phrase>
+			<phrase>O homem deve criar as oportunidades e não somente encontrá-las.</phrase>
+			<phrase>O silêncio é a virtude dos imbecis.</phrase>
+			<phrase>A melhor parte da beleza é aquela que nenhum retrato consegue expressar.</phrase>
+			<phrase>A prosperidade prontamente descobre o vício; mas a adversidade logo descobre a virtude.</phrase>
+			<phrase>A dúvida é a escola da verdade.</phrase>
 		</phrases>
 	</thinker>
 	<thinker>
-		<name>
-			John Kennedy
-		</name>
-		<biography>
-			Foi o 35º presidente dos EUA. Considerado uma das grandes personalidades do século XX.
-		</biography>
-		<image>
-			http://conteudo.farolsign.com.br/frases_pensamentos/images/john_kennedy.jpg
-		</image>
+		<name>Henry Ford</name>
+		<biography>Empresário americano, fundador da Ford, o primeiro a aplicar a linha de montagem em série.</biography>
+		<image>henry_ford.jpg</image>
 		<phrases>
-			<phrase>
-				A vitória tem mil pais, mas a derrota é órfã.
-			</phrase>
-			<phrase>
-				Quase sempre preferimos o conforto da opinião sem o desconforto da reflexão.
-			</phrase>
-			<phrase>
-				A melhor hora de se consertar o telhado é quando o tempo está bom.
-			</phrase>
-			<phrase>
-				Em chinês, a palavra ‘crise’ tem dois caracteres. Um representa perigo e o outro oportunidade.
-			</phrase>
+			<phrase>Há mais pessoas que desistem do que pessoas que fracassam.</phrase>
+			<phrase>Se você pensa que pode, ou se pensa que não pode, de qualquer modo está certo.</phrase>
+			<phrase>O melhor uso do capital não é fazer dinheiro, mas sim fazer dinheiro para melhorar a vida.</phrase>
+			<phrase>Mediocridade é o pior inimigo da prosperidade.</phrase>
+			<phrase>Você não pode construir uma reputação com base no que ainda vai fazer.</phrase>
+			<phrase>Obstáculos são aqueles perigos que você vê quando tira os olhos de seu objetivo.</phrase>
 		</phrases>
 	</thinker>
 	<thinker>
-		<name>
-			Leonardo da Vinci
-		</name>
-		<biography>
-			Italiano, se destacou como cientista, matemático, inventor, pintor, arquiteto e poeta.
-		</biography>
-		<image>
-			http://conteudo.farolsign.com.br/frases_pensamentos/images/leonardo_da_vinci.jpg
-		</image>
+		<name>John Kennedy</name>
+		<biography>Foi o 35º presidente dos EUA. Considerado uma das grandes personalidades do século XX.</biography>
+		<image>john_kennedy.jpg</image>
 		<phrases>
-			<phrase>
-				Quem pensa pouco erra muito.
-			</phrase>
-			<phrase>
-				Quem não ama a vida não a merece.
-			</phrase>
-			<phrase>
-				Onde há muito sentimento, há muita dor.
-			</phrase>
-			<phrase>
-				O casamento é como enfiar a mão num saco de serpentes na esperança de apanhar uma enguia.
-			</phrase>
-			<phrase>
-				Não prever, é já lamentar.
-			</phrase>
-			<phrase>
-				Quando eu pensar que aprendi a viver, terei aprendido a morrer.
-			</phrase>
-			<phrase>
-				Não há coisa que mais nos engane do que o nosso juízo.
-			</phrase>
-			<phrase>
-				A lei suprema da arte é a representação do belo.
-			</phrase>
-			<phrase>
-				Lastimável discípulo, que não ultrapassa o mestre.
-			</phrase>
+			<phrase>A vitória tem mil pais, mas a derrota é órfã.</phrase>
+			<phrase>Quase sempre preferimos o conforto da opinião sem o desconforto da reflexão.</phrase>
+			<phrase>A melhor hora de se consertar o telhado é quando o tempo está bom.</phrase>
+			<phrase>Em chinês, a palavra ‘crise’ tem dois caracteres. Um representa perigo e o outro oportunidade.</phrase>
 		</phrases>
 	</thinker>
 	<thinker>
-		<name>
-			Machado de Assis
-		</name>
-		<biography>
-			Foi um escritor brasileiro, considerado como o maior nome da literatura nacional.
-		</biography>
-		<image>
-			http://conteudo.farolsign.com.br/frases_pensamentos/images/machado_de_assis.jpg
-		</image>
+		<name>Leonardo da Vinci</name>
+		<biography>Italiano, se destacou como cientista, matemático, inventor, pintor, arquiteto e poeta.</biography>
+		<image>leonardo_da_vinci.jpg</image>
 		<phrases>
-			<phrase>
-				A primeira glória é a reparação dos erros.
-			</phrase>
-			<phrase>
-				A arte de viver consiste em tirar o maior bem do maior mal.
-			</phrase>
-			<phrase>
-				Há em todas as coisas um sentido filosófico.
-			</phrase>
-			<phrase>
-				A melhor definição do amor não vale um beijo.
-			</phrase>
-			<phrase>
-				Está morto: podemos elogiá-lo à vontade.
-			</phrase>
-			<phrase>
-				A índole natural da ciência é a longanimidade.
-			</phrase>
-			<phrase>
-				Mas a ciência tem o inefável dom de curar todas as mágoas.
-			</phrase>
-			<phrase>
-				Juntos vimos florescerem as primeiras ilusões, e juntos vimos dissiparem-se as últimas.
-			</phrase>
+			<phrase>Quem pensa pouco erra muito.</phrase>
+			<phrase>Quem não ama a vida não a merece.</phrase>
+			<phrase>Onde há muito sentimento, há muita dor.</phrase>
+			<phrase>O casamento é como enfiar a mão num saco de serpentes na esperança de apanhar uma enguia.</phrase>
+			<phrase>Não prever, é já lamentar.</phrase>
+			<phrase>Quando eu pensar que aprendi a viver, terei aprendido a morrer.</phrase>
+			<phrase>Não há coisa que mais nos engane do que o nosso juízo.</phrase>
+			<phrase>A lei suprema da arte é a representação do belo.</phrase>
+			<phrase>Lastimável discípulo, que não ultrapassa o mestre.</phrase>
 		</phrases>
 	</thinker>
 	<thinker>
-		<name>
-			Mahatma Gandhi
-		</name>
-		<biography>
-			Idealizador e fundador do moderno Estado indiano e o maior defensor do princípio Satyagraha.
-		</biography>
-		<image>
-			http://conteudo.farolsign.com.br/frases_pensamentos/images/mahatma_gandhi.jpg
-		</image>
+		<name>Machado de Assis</name>
+		<biography>Foi um escritor brasileiro, considerado como o maior nome da literatura nacional.</biography>
+		<image>machado_de_assis.jpg</image>
 		<phrases>
-			<phrase>
-				Só podemos vencer o adversário com o amor, nunca com o ódio.
-			</phrase>
-			<phrase>
-				O fraco nunca pode perdoar. Perdão é um atributo dos fortes.
-			</phrase>
-			<phrase>
-				Asseguro que vida sem religião é vida sem princípio, e que uma vida sem princípio é omo um navio sem leme.
-			</phrase>
-			<phrase>
-				O medo tem alguma utilidade, mas a covardia não.
-			</phrase>
-			<phrase>
-				A alegria está na luta, na tentativa, no sofrimento envolvido. Não na vitória propriamente dita.
-			</phrase>
-			<phrase>
-				A força não provém da capacidade física. Provém de uma vontade indomável.
-			</phrase>
-			<phrase>
-				A vida merece algo além do aumento da sua velocidade.
-			</phrase>
-			<phrase>
-				O amor é a força mais sutil do mundo.
-			</phrase>
-			<phrase>
-				O medo tem alguma utilidade, mas a covardia não.
-			</phrase>
-			<phrase>
-				Olho por olho, e o mundo acabará cego.
-			</phrase>
-			<phrase>
-				A minha fé, nas densas trevas, resplandece mais viva.
-			</phrase>
+			<phrase>A primeira glória é a reparação dos erros.</phrase>
+			<phrase>A arte de viver consiste em tirar o maior bem do maior mal.</phrase>
+			<phrase>Há em todas as coisas um sentido filosófico.</phrase>
+			<phrase>A melhor definição do amor não vale um beijo.</phrase>
+			<phrase>Está morto: podemos elogiá-lo à vontade.</phrase>
+			<phrase>A índole natural da ciência é a longanimidade.</phrase>
+			<phrase>Mas a ciência tem o inefável dom de curar todas as mágoas.</phrase>
+			<phrase>Juntos vimos florescerem as primeiras ilusões, e juntos vimos dissiparem-se as últimas.</phrase>
 		</phrases>
 	</thinker>
 	<thinker>
-		<name>
-			Mario Quintana
-		</name>
-		<biography>
-			Nascido em Porto Alegre, Mario Quintana foi um famoso poeta, tradutor e jornalista brasileiro.
-		</biography>
-		<image>
-			http://conteudo.farolsign.com.br/frases_pensamentos/images/mario_quintana.jpg
-		</image>
+		<name>Mahatma Gandhi</name>
+		<biography>Idealizador e fundador do moderno Estado indiano e o maior defensor do princípio Satyagraha.</biography>
+		<image>mahatma_gandhi.jpg</image>
 		<phrases>
-			<phrase>
-				O pior dos problemas da gente é que ninguém tem nada com isso.
-			</phrase>
-			<phrase>
-				O luar é a luz do sol que está sonhando…
-			</phrase>
-			<phrase>
-				A alma é essa coisa que nos pergunta se a alma existe.
-			</phrase>
-			<phrase>
-				A amizade é uma espécie de amor que nunca morre.
-			</phrase>
-			<phrase>
-				Tão bom morrer de amor! e continuar vivendo.
-			</phrase>
-			<phrase>
-				Sonhar é acordar-se para dentro.
-			</phrase>
-			<phrase>
-				Quem pretende apenas a glória não a merece.
-			</phrase>
-			<phrase>
-				Livros trazem a vantagem de podermos estar sós e acompanhados.
-			</phrase>
-			<phrase>
-				Com o tempo não vamos ficando sozinhos apenas pelos que se foram: vamos ficando sozinhos uns dos outros.
-			</phrase>
-			<phrase>
-				A resposta certa, não importa nada: o essencial é que as perguntas estejam certas.
-			</phrase>
-			<phrase>
-				Quando alguém pergunta a um autor o que este quis dizer, é porque um dos dois é burro.
-			</phrase>
+			<phrase>Só podemos vencer o adversário com o amor, nunca com o ódio.</phrase>
+			<phrase>O fraco nunca pode perdoar. Perdão é um atributo dos fortes.</phrase>
+			<phrase>Asseguro que vida sem religião é vida sem princípio, e que uma vida sem princípio é omo um navio sem leme.</phrase>
+			<phrase>O medo tem alguma utilidade, mas a covardia não.</phrase>
+			<phrase>A alegria está na luta, na tentativa, no sofrimento envolvido. Não na vitória propriamente dita.</phrase>
+			<phrase>A força não provém da capacidade física. Provém de uma vontade indomável.</phrase>
+			<phrase>A vida merece algo além do aumento da sua velocidade.</phrase>
+			<phrase>O amor é a força mais sutil do mundo.</phrase>
+			<phrase>O medo tem alguma utilidade, mas a covardia não.</phrase>
+			<phrase>Olho por olho, e o mundo acabará cego.</phrase>
+			<phrase>A minha fé, nas densas trevas, resplandece mais viva.</phrase>
 		</phrases>
 	</thinker>
 	<thinker>
-		<name>
-			Michelangelo
-		</name>
-		<biography>
-			Pintor, escultor, poeta e arquiteto italiano. Um dos criadores da história da arte do ocidente.
-		</biography>
-		<image>
-			http://conteudo.farolsign.com.br/frases_pensamentos/images/michelangelo.jpg
-		</image>
+		<name>Mario Quintana</name>
+		<biography>Nascido em Porto Alegre, Mario Quintana foi um famoso poeta, tradutor e jornalista brasileiro.</biography>
+		<image>mario_quintana.jpg</image>
 		<phrases>
-			<phrase>
-				O amor é a asa veloz que Deus deu à alma para que ela voe até o céu.
-			</phrase>
-			<phrase>
-				Detalhes fazem a perfeição e perfeição não é um detalhe.
-			</phrase>
-			<phrase>
-				Que seja doce a dúvida a quem a verdade pode fazer mal.
-			</phrase>	
-			<phrase>
-				A minha alegria é a melancolia.
-			</phrase>	
-			<phrase>
-				Alguns fazem muitas aquisições, outros aprendem perdendo.
-			</phrase>	
-			<phrase>
-				O Sol é a sombra de DEUS
-			</phrase>	
-			<phrase>
-				Não dura o mal onde não dura o bem, mas é frequente um transformar-se no outro.
-			</phrase>	
-			<phrase>
-				Para nos tornarmos pessoas de mérito e de valor, o que há de mais certo em nós é confiarmos em nós mesmos.
-			</phrase>	
+			<phrase>O pior dos problemas da gente é que ninguém tem nada com isso.</phrase>
+			<phrase>O luar é a luz do sol que está sonhando…</phrase>
+			<phrase>A alma é essa coisa que nos pergunta se a alma existe.</phrase>
+			<phrase>A amizade é uma espécie de amor que nunca morre.</phrase>
+			<phrase>Tão bom morrer de amor! e continuar vivendo.</phrase>
+			<phrase>Sonhar é acordar-se para dentro.</phrase>
+			<phrase>Quem pretende apenas a glória não a merece.</phrase>
+			<phrase>Livros trazem a vantagem de podermos estar sós e acompanhados.</phrase>
+			<phrase>Com o tempo não vamos ficando sozinhos apenas pelos que se foram: vamos ficando sozinhos uns dos outros.</phrase>
+			<phrase>A resposta certa, não importa nada: o essencial é que as perguntas estejam certas.</phrase>
+			<phrase>Quando alguém pergunta a um autor o que este quis dizer, é porque um dos dois é burro.</phrase>
 		</phrases>
 	</thinker>
 	<thinker>
-		<name>
-			Montesquieu
-		</name>
-		<biography>
-			Político, filósofo e escritor francês. Famoso por sua teoria da separação dos poderes.
-		</biography>
-		<image>
-			http://conteudo.farolsign.com.br/frases_pensamentos/images/montesquieu.jpg
-		</image>
+		<name>Michelangelo</name>
+		<biography>Pintor, escultor, poeta e arquiteto italiano. Um dos criadores da história da arte do ocidente.</biography>
+		<image>michelangelo.jpg</image>
 		<phrases>
-			<phrase>
-				A liberdade é o direito de fazer o que a legislação permite.
-			</phrase>
-			<phrase>
-				Quanto menos se pensa, mais se fala.
-			</phrase>
-			<phrase>
-				Todo homem investido de poder é tentado a abusar dele.
-			</phrase>
-			<phrase>
-				Leis inúteis enfraquecem as leis necessárias.
-			</phrase>
-			<phrase>
-				Para se fazer grandes coisas não se deve estar acima dos homens, mas junto deles.
-			</phrase>
-			<phrase>
-				Um homem não é infeliz porque tem ambições, mas porque elas o devoram.
-			</phrase>
+			<phrase>O amor é a asa veloz que Deus deu à alma para que ela voe até o céu.</phrase>
+			<phrase>Detalhes fazem a perfeição e perfeição não é um detalhe.</phrase>
+			<phrase>Que seja doce a dúvida a quem a verdade pode fazer mal.</phrase>
+			<phrase>A minha alegria é a melancolia.</phrase>
+			<phrase>Alguns fazem muitas aquisições, outros aprendem perdendo.</phrase>
+			<phrase>O Sol é a sombra de DEUS</phrase>
+			<phrase>Não dura o mal onde não dura o bem, mas é frequente um transformar-se no outro.</phrase>
+			<phrase>Para nos tornarmos pessoas de mérito e de valor, o que há de mais certo em nós é confiarmos em nós mesmos.</phrase>
 		</phrases>
 	</thinker>
 	<thinker>
-		<name>
-			Nick Vujicic
-		</name>
-		<biography>
-			Nascido sem pernas e braços por uma síndrome, atualmente é palestrante motivacional.
-		</biography>
-		<image>
-			http://conteudo.farolsign.com.br/frases_pensamentos/images/nick_vujicic.jpg
-		</image>
+		<name>Montesquieu</name>
+		<biography>Político, filósofo e escritor francês. Famoso por sua teoria da separação dos poderes.</biography>
+		<image>montesquieu.jpg</image>
 		<phrases>
-			<phrase>
-				Se você não pode fazer um milagre, torne-se um.
-			</phrase>
-			<phrase>
-				Eu tenho a opção de ficar com raiva de Deus por aquilo que eu não tenho, ou ser grato pelo que eu tenho.
-			</phrase>
-			<phrase>
-				Você pode não ser capaz de ver um caminho agora, mas isso não significa que ele não está lá.
-			</phrase>
-			<phrase>
-				Quando você adota uma atitude de perdão, coloca em ação todo tipo de energia positiva.
-			</phrase>	
-			<phrase>
-				Não há sentido em ser completo do lado de fora quando se esta quebrado no interior.
-			</phrase>	
-			<phrase>
-				A raiva não foi inventada pra ser uma emoção de longo prazo.
-			</phrase>	
-			<phrase>
-				O dia que você acreditar ter atingido todo o seu potencial é o dia que não aconteceu. Por que você ainda tem o HOJE.
-			</phrase>	
+			<phrase>A liberdade é o direito de fazer o que a legislação permite.</phrase>
+			<phrase>Quanto menos se pensa, mais se fala.</phrase>
+			<phrase>Todo homem investido de poder é tentado a abusar dele.</phrase>
+			<phrase>Leis inúteis enfraquecem as leis necessárias.</phrase>
+			<phrase>Para se fazer grandes coisas não se deve estar acima dos homens, mas junto deles.</phrase>
+			<phrase>Um homem não é infeliz porque tem ambições, mas porque elas o devoram.</phrase>
 		</phrases>
 	</thinker>
 	<thinker>
-		<name>
-			Olavo Bilac
-		</name>
-		<biography>
-			Jornalista e poeta brasileiro, foi membro fundador da Academia Brasileira de Letras.
-		</biography>
-		<image>
-			http://conteudo.farolsign.com.br/frases_pensamentos/images/olavo_bilac.jpg
-		</image>
+		<name>Nick Vujicic</name>
+		<biography>Nascido sem pernas e braços por uma síndrome, atualmente é palestrante motivacional.</biography>
+		<image>nick_vujicic.jpg</image>
 		<phrases>
-			<phrase>
-				Só quem ama pode ter ouvido capaz de ouvir e de entender estrelas.
-			</phrase>
-			<phrase>
-				Não sei de glória mais alta do que a glória de quem ama!
-			</phrase>
-			<phrase>
-				Já repararam como se queixam de falta de tempo as pessoas que nada fazem?
-			</phrase>
-			<phrase>
-				Saudade: presença dos ausentes.
-			</phrase>	
-			<phrase>
-				Há quem me julgue perdido,porque ando a ouvir estrelas.Só quem ama tem ouvido para ouvi-las e entende-las.
-			</phrase>	
-			<phrase>
-				Nao és bom nem és mal...és triste e humano.
-			</phrase>	
-			<phrase>
-				Homem! És o universo porque pensas e, pequenino e fraco, és Deus, porque amas.
-			</phrase>	
-			<phrase>
-				O medo é o pai da crença.
-			</phrase>	
+			<phrase>Se você não pode fazer um milagre, torne-se um.</phrase>
+			<phrase>Eu tenho a opção de ficar com raiva de Deus por aquilo que eu não tenho, ou ser grato pelo que eu tenho.</phrase>
+			<phrase>Você pode não ser capaz de ver um caminho agora, mas isso não significa que ele não está lá.</phrase>
+			<phrase>Quando você adota uma atitude de perdão, coloca em ação todo tipo de energia positiva.</phrase>
+			<phrase>Não há sentido em ser completo do lado de fora quando se esta quebrado no interior.</phrase>
+			<phrase>A raiva não foi inventada pra ser uma emoção de longo prazo.</phrase>
+			<phrase>O dia que você acreditar ter atingido todo o seu potencial é o dia que não aconteceu. Por que você ainda tem o HOJE.</phrase>
 		</phrases>
 	</thinker>
 	<thinker>
-		<name>
-			Paulo Coelho
-		</name>
-		<biography>
-			Escritor e novelista brasileiro, um dos autores mais lidos em todo o mundo atualmente.
-		</biography>
-		<image>
-			http://conteudo.farolsign.com.br/frases_pensamentos/images/paulo_coelho.jpg
-		</image>
+		<name>Olavo Bilac</name>
+		<biography>Jornalista e poeta brasileiro, foi membro fundador da Academia Brasileira de Letras.</biography>
+		<image>olavo_bilac.jpg</image>
 		<phrases>
-			<phrase>
-				O caminho da sabedoria é não ter medo de errar.
-			</phrase>
-			<phrase>
-				A prece, quando feita com as palavras da alma, é muito mais poderosa.
-			</phrase>
-			<phrase>
-				Não existe outra maneira de estar perto das pessoas sem ser uma delas.
-			</phrase>
-			<phrase>
-				O amor se descobre através da prática de amar e não das palavras.
-			</phrase>
-			<phrase>
-				Quantas coisas perdemos por medo de perder.
-			</phrase>	
-			<phrase>
-				Uma vez feita a escolha é preciso seguir adiante e confiar no seu próprio coração.
-			</phrase>	
-			<phrase>
-				A possibilidade de realizarmos um sonho é o que torna a vida interessante.
-			</phrase>	
-			<phrase>
-				A felicidade às vezes é uma bênção - mas geralmente é uma conquista.
-			</phrase>
-			<phrase>
-				O maior de todos os pecados: o arrependimento.
-			</phrase>	
-			<phrase>
-				Sempre que possível, seja claro. Mas que sua clareza não seja o motivo para ferir o outros.
-			</phrase>	
+			<phrase>Só quem ama pode ter ouvido capaz de ouvir e de entender estrelas.</phrase>
+			<phrase>Não sei de glória mais alta do que a glória de quem ama!</phrase>
+			<phrase>Já repararam como se queixam de falta de tempo as pessoas que nada fazem?</phrase>
+			<phrase>Saudade: presença dos ausentes.</phrase>
+			<phrase>Há quem me julgue perdido,porque ando a ouvir estrelas.Só quem ama tem ouvido para ouvi-las e entende-las.</phrase>
+			<phrase>Nao és bom nem és mal...és triste e humano.</phrase>
+			<phrase>Homem! És o universo porque pensas e, pequenino e fraco, és Deus, porque amas.</phrase>
+			<phrase>O medo é o pai da crença.</phrase>
 		</phrases>
 	</thinker>
 	<thinker>
-		<name>
-			Steve Jobs
-		</name>
-		<biography>
-			Foi um empreendedor e inventor americano. Famoso por fundar e comandar a empresa Apple
-		</biography>
-		<image>
-			http://conteudo.farolsign.com.br/frases_pensamentos/images/steve_jobs.jpg
-		</image>
+		<name>Paulo Coelho</name>
+		<biography>Escritor e novelista brasileiro, um dos autores mais lidos em todo o mundo atualmente.</biography>
+		<image>paulo_coelho.jpg</image>
 		<phrases>
-			<phrase>
-				Algumas vezes a vida pode te atingir na cabeça com um tijolo. Não perca a fé.
-			</phrase>
-			<phrase>
-				Trocaria toda a minha tecnologia por uma tarde com Sócrates.
-			</phrase>
-			<phrase>
-				A inovação é o que distingue um líder de um seguidor.
-			</phrase>
-			<phrase>
-				Não deixe o ruído das opiniões de outras pessoas calar a sua própria voz interior.
-			</phrase>
-			<phrase>
-				Melhor ser pirata, do que marinheiro...
-			</phrase>	
-			<phrase>
-				Foco é dizer não.
-			</phrase>	
-			<phrase>
-				As pessoas não sabem o que querem, até mostrarmos a elas.
-			</phrase>	
-			<phrase>
-				Parece que você está apenas à procura de alguém para ficar zangado em vez de si próprio.
-			</phrase>	
-			<phrase>
-				Estamos aqui para fazer alguma diferença no universo, se não, porque estar aqui?
-			</phrase>	
-			<phrase>
-				Concentre-se naquilo que você é bom, delegue todo o resto.
-			</phrase>	
+			<phrase>O caminho da sabedoria é não ter medo de errar.</phrase>
+			<phrase>A prece, quando feita com as palavras da alma, é muito mais poderosa.</phrase>
+			<phrase>Não existe outra maneira de estar perto das pessoas sem ser uma delas.</phrase>
+			<phrase>O amor se descobre através da prática de amar e não das palavras.</phrase>
+			<phrase>Quantas coisas perdemos por medo de perder.</phrase>
+			<phrase>Uma vez feita a escolha é preciso seguir adiante e confiar no seu próprio coração.</phrase>
+			<phrase>A possibilidade de realizarmos um sonho é o que torna a vida interessante.</phrase>
+			<phrase>A felicidade às vezes é uma bênção - mas geralmente é uma conquista.</phrase>
+			<phrase>O maior de todos os pecados: o arrependimento.</phrase>
+			<phrase>Sempre que possível, seja claro. Mas que sua clareza não seja o motivo para ferir o outros.</phrase>
 		</phrases>
 	</thinker>
 	<thinker>
-		<name>
-			Thomas Edison
-		</name>
-		<biography>
-			Foi um inventor, cientista e empresário americano. Em vida registrou 332 patentes.
-		</biography>
-		<image>
-			http://conteudo.farolsign.com.br/frases_pensamentos/images/thomas_edison.jpg
-		</image>
+		<name>Steve Jobs</name>
+		<biography>Foi um empreendedor e inventor americano. Famoso por fundar e comandar a empresa Apple</biography>
+		<image>steve_jobs.jpg</image>
 		<phrases>
-			<phrase>
-				Tudo alcança aquele que trabalha duro enquanto espera.
-			</phrase>
-			<phrase>
-				Nossa maior fraqueza está em desistir. O caminho mais certo para vencer é tentar mais uma vez.
-			</phrase>
-			<phrase>
-				Talento é 1% inspiração e 99% transpiração.
-			</phrase>
-			<phrase>
-				Mostra-me um homem cem por cento satisfeito e eu mostrar-te-ei um fracassado.
-			</phrase>	
-			<phrase>
-				Não há substituto para o trabalho duro.
-			</phrase>	
-			<phrase>
-				Há tempo para tudo.
-			</phrase>	
-			<phrase>
-				Boa sorte é o que acontece quando a oportunidade encontra o planejamento
-			</phrase>	
+			<phrase>Algumas vezes a vida pode te atingir na cabeça com um tijolo. Não perca a fé.</phrase>
+			<phrase>Trocaria toda a minha tecnologia por uma tarde com Sócrates.</phrase>
+			<phrase>A inovação é o que distingue um líder de um seguidor.</phrase>
+			<phrase>Não deixe o ruído das opiniões de outras pessoas calar a sua própria voz interior.</phrase>
+			<phrase>Melhor ser pirata, do que marinheiro...</phrase>
+			<phrase>Foco é dizer não.</phrase>
+			<phrase>As pessoas não sabem o que querem, até mostrarmos a elas.</phrase>
+			<phrase>Parece que você está apenas à procura de alguém para ficar zangado em vez de si próprio.</phrase>
+			<phrase>Estamos aqui para fazer alguma diferença no universo, se não, porque estar aqui?</phrase>
+			<phrase>Concentre-se naquilo que você é bom, delegue todo o resto.</phrase>
 		</phrases>
 	</thinker>
 	<thinker>
-		<name>
-			Vinícius de Moraes
-		</name>
-		<biography>
-			Vinícius de Moraes foi um diplomata, dramaturgo, jornalista e famoso poeta e compositor brasileiro.
-		</biography>
-		<image>
-			http://conteudo.farolsign.com.br/frases_pensamentos/images/vinicius_de_moraes.jpg
-		</image>
+		<name>Thomas Edison</name>
+		<biography>Foi um inventor, cientista e empresário americano. Em vida registrou 332 patentes.</biography>
+		<image>thomas_edison.jpg</image>
 		<phrases>
-			<phrase>
-				A vida é a arte do encontro, embora haja tanto desencontro pela vida.
-			</phrase>
-			<phrase>
-				Amai, por que nada melhor para a saúde que um amor correspondido.
-			</phrase>
-			<phrase>
-				Que não seja imortal, posto que é chama, mas que seja infinito enquanto dure.
-			</phrase>
-			<phrase>
-				A vida só se dá para quem se deu.
-			</phrase>
-			<phrase>
-				Amor é querer estar perto, se longe; e mais perto, se perto.
-			</phrase>
-			<phrase>
-				Com as lágrimas do tempo e a cal do meu dia eu fiz o cimento da minha poesia.
-			</phrase>	
-			<phrase>
-				O uísque é o melhor amigo do homem: é um cachorro engarrafado.
-			</phrase>	
-			<phrase>
-				A vida é a arte do encontro, embora haja tanto desencontro pela vida.
-			</phrase>	
-			<phrase>
-				Críticos são sujeitos que têm mau hálito no pensamento.
-			</phrase>	
-			<phrase>
-				Quem de dentro de si não sai, vai morrer sem amar ninguém.
-			</phrase>
+			<phrase>Tudo alcança aquele que trabalha duro enquanto espera.</phrase>
+			<phrase>Nossa maior fraqueza está em desistir. O caminho mais certo para vencer é tentar mais uma vez.</phrase>
+			<phrase>Talento é 1% inspiração e 99% transpiração.</phrase>
+			<phrase>Mostra-me um homem cem por cento satisfeito e eu mostrar-te-ei um fracassado.</phrase>
+			<phrase>Não há substituto para o trabalho duro.</phrase>
+			<phrase>Há tempo para tudo.</phrase>
+			<phrase>Boa sorte é o que acontece quando a oportunidade encontra o planejamento</phrase>
 		</phrases>
 	</thinker>
 	<thinker>
-		<name>
-			Walt Disney
-		</name>
-		<biography>
-			Foi um produtor cinematográfico e empreendedor, fundou a The Walt Disney Company.
-		</biography>
-		<image>
-			http://conteudo.farolsign.com.br/frases_pensamentos/images/walt_disney.jpg
-		</image>
+		<name>Vinícius de Moraes</name>
+		<biography>Vinícius de Moraes foi um diplomata, dramaturgo, jornalista e famoso poeta e compositor brasileiro.</biography>
+		<image>vinicius_de_moraes.jpg</image>
 		<phrases>
-			<phrase>
-				Eu acredito em ser inovador.
-			</phrase>
-			<phrase>
-				Eu queria fazer coisas; Eu queria construir coisas, começar alguma coisa.
-			</phrase>
-			<phrase>
-				Todos precisam de prazos.
-			</phrase>
-			<phrase>
-				Continue seguindo em frente.
-			</phrase>
-			<phrase>
-				É divertido fazer o impossível, pois lá a concorrência é menor.
-			</phrase>
-			<phrase>
-				Um homem nunca deve negligenciar sua família pelos negócios.
-			</phrase>
+			<phrase>A vida é a arte do encontro, embora haja tanto desencontro pela vida.</phrase>
+			<phrase>Amai, por que nada melhor para a saúde que um amor correspondido.</phrase>
+			<phrase>Que não seja imortal, posto que é chama, mas que seja infinito enquanto dure.</phrase>
+			<phrase>A vida só se dá para quem se deu.</phrase>
+			<phrase>Amor é querer estar perto, se longe; e mais perto, se perto.</phrase>
+			<phrase>Com as lágrimas do tempo e a cal do meu dia eu fiz o cimento da minha poesia.</phrase>
+			<phrase>O uísque é o melhor amigo do homem: é um cachorro engarrafado.</phrase>
+			<phrase>A vida é a arte do encontro, embora haja tanto desencontro pela vida.</phrase>
+			<phrase>Críticos são sujeitos que têm mau hálito no pensamento.</phrase>
+			<phrase>Quem de dentro de si não sai, vai morrer sem amar ninguém.</phrase>
 		</phrases>
 	</thinker>
 	<thinker>
-		<name>
-			Willian Shakespeare
-		</name>
-		<biography>
-			Foi um poeta e dramaturgo inglês, considerado o mais influente dramaturgo do mundo.
-		</biography>
-		<image>
-			http://conteudo.farolsign.com.br/frases_pensamentos/images/william_shakespeare.jpg
-		</image>
+		<name>Walt Disney</name>
+		<biography>Foi um produtor cinematográfico e empreendedor, fundou a The Walt Disney Company.</biography>
+		<image>walt_disney.jpg</image>
 		<phrases>
-			<phrase>
-				A glória do tempo é acalmar os reis em conflito.
-			</phrase>
-			<phrase>
-				A filosofia é o doce leite da adversidade.
-			</phrase>
-			<phrase>
-				Nós somos feitos da matéria de que são feitos os sonhos.
-			</phrase>
-			<phrase>
-				O homem roubado, que sorri, rouba alguma coisa do ladrão.
-			</phrase>
-			<phrase>
-				É melhor ter um epitáfio ruim do que a maledicência durante a vida.
-			</phrase>
-			<phrase>
-				As queixas venenosas de uma esposa ciumenta são de efeito mais nocivo do que dentada de cachorro louco.
-			</phrase>
-			<phrase>
-				A cólera também tem privilégios.
-			</phrase>
-			<phrase>
-				Nada me deixa tão feliz quanto ter um coração que não se esquece de seus amigos.
-			</phrase>
-			<phrase>
-				O amor não vê com os olhos, vê com a mente; por isso é alado, é cego e tão potente.
-			</phrase>
-			<phrase>
-				Se não te lembram as menores tolices que o amor te levou a fazer, é por que jamais amaste.
-			</phrase>
-			<phrase>
-				O amor é cego, e os namorados nunca vêem as tolices que praticam.
-			</phrase>
+			<phrase>Eu acredito em ser inovador.</phrase>
+			<phrase>Eu queria fazer coisas; Eu queria construir coisas, começar alguma coisa.</phrase>
+			<phrase>Todos precisam de prazos.</phrase>
+			<phrase>Continue seguindo em frente.</phrase>
+			<phrase>É divertido fazer o impossível, pois lá a concorrência é menor.</phrase>
+			<phrase>Um homem nunca deve negligenciar sua família pelos negócios.</phrase>
+		</phrases>
+	</thinker>
+	<thinker>
+		<name>Willian Shakespeare</name>
+		<biography>Foi um poeta e dramaturgo inglês, considerado o mais influente dramaturgo do mundo.</biography>
+		<image>william_shakespeare.jpg</image>
+		<phrases>
+			<phrase>A glória do tempo é acalmar os reis em conflito.</phrase>
+			<phrase>A filosofia é o doce leite da adversidade.</phrase>
+			<phrase>Nós somos feitos da matéria de que são feitos os sonhos.</phrase>
+			<phrase>O homem roubado, que sorri, rouba alguma coisa do ladrão.</phrase>
+			<phrase>É melhor ter um epitáfio ruim do que a maledicência durante a vida.</phrase>
+			<phrase>As queixas venenosas de uma esposa ciumenta são de efeito mais nocivo do que dentada de cachorro louco.</phrase>
+			<phrase>A cólera também tem privilégios.</phrase>
+			<phrase>Nada me deixa tão feliz quanto ter um coração que não se esquece de seus amigos.</phrase>
+			<phrase>O amor não vê com os olhos, vê com a mente; por isso é alado, é cego e tão potente.</phrase>
+			<phrase>Se não te lembram as menores tolices que o amor te levou a fazer, é por que jamais amaste.</phrase>
+			<phrase>O amor é cego, e os namorados nunca vêem as tolices que praticam.</phrase>
 		</phrases>
 	</thinker>
 </root>

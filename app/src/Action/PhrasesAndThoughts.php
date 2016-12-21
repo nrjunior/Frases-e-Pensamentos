@@ -44,7 +44,7 @@ final class PhrasesAndThoughts
                     $newXML[$i] = array(
                         'name' => $reader[$indice_reader]['name'],
                         'biography' => $reader[$indice_reader]['biography'],
-                        'image' => $reader[$indice_reader]['image'],
+                        'image' =>$this->getPathImages() . $reader[$indice_reader]['image'],
                         'phrases'=> array()
                     );
 
@@ -108,6 +108,10 @@ final class PhrasesAndThoughts
     public function setFileXML($fileXML)
     {
         $this->fileXML = $fileXML;
+    }
+    public function  getPathImages()
+    {
+        return 'http://' . $_SERVER['HTTP_HOST'] . '/data/uploads/images/';
     }
 
 }
